@@ -1,0 +1,103 @@
+    1  git --version
+    2  ls
+    3  git config --global user.name "jhagautam7"
+    4  git config -- global user.email "jhagautam806@gmail.com"
+    5  git config --list
+    6  git config --list
+    7  git config --global user.email "jhagautam806@gmail.com"
+    8  git config --list
+    9  ls
+   10  mkdir project
+   11  ls
+   12  cd project
+   13  git init
+   14  ls -a
+   15   ls .git
+   16  touch names.txt
+   17  git status
+   18   git ads names.txt
+   19  git add names.txt
+   20   git status
+   21  git rm --cached <names.txt>...
+   22  git rm --cached names.txt
+   23  status
+   24  git status
+   25  git add names.txt
+   26  status
+   27  git status
+   28  git add names.txt
+   29  git status
+   30  git commit -m "The file has been added."
+   31  git status
+   32  vi names.txt
+   33  git status
+   34  git status
+   35  git init
+   36  names.txt
+   37  ls
+   38  git status
+   39  git --version
+   40  git config --global user.name "Gautam Jha"
+   41  git config --global user.email "jhagautam806@gmail.com"
+   42  ls
+   43  cd project
+   44  git init
+   45  cat names.txt
+   46  vim names.txt
+   47  vim names.txt.swap
+   48  nano names.txt
+   49  cat names.txt
+   50  cat names.txt.swap
+   51  git --version
+   52  --list
+   53  ls
+   54  -l
+   55  git confit user.name
+   56  git config user.name
+   57  git config user.email
+   58  git config --list
+   59  cd project
+   60  echo "Hello git"
+   61  git status
+   62  git add names.txt
+   63  status
+   64  git status
+   65  git add <names.txt>
+   66  git add.
+   67  git add .
+   68  status
+   69  git status
+   70  git add names.txt.swap
+   71  git status
+   72  git add .names.txt.swp
+   73  status
+   74  git status
+   75  vim 
+   76  nano Hello git
+   77  cat Hello git
+   78  cat Hello
+   79  cat hello
+   80  git commit -m "First Commit"
+   81  git status
+   82  git add .
+   83  +
+   84  git add --all
+   85  git status
+   86  git add Hello
+   87  status
+   88  git status
+   89  git add hello.txt
+   90  status
+   91  git status
+   92  git add Hello.txt
+   93  git status
+   94  git config --global core.autocrlf trye
+   95  git remote add origin https://github.com/jhagautam7/Myproject.git
+   96  git push -u origin master
+   97  git push origin master
+   98  git push--origin master
+   99  git config --global core.autocrlf true
+  100  git push origin master
+  101  git push origin main
+  102  git branch
+  103  history > my_history.txt
